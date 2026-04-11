@@ -71,19 +71,6 @@ DEVCONSUI_MoveCodeCamp2026_Level1/
 
 ---
 
-## Personalizing Your Portfolio
-
-After deploying your contract, update two things:
-
-**1. Your Object ID** — open `portfolio_frontend/src/constants.ts` and replace:
-```ts
-export const MAINNET_PORTFOLIO_ID = "0x...";
-```
-
-**2. Your profile photo** — replace `portfolio_frontend/public/profile.png` with your own photo (rename it to `profile.png`).
-
----
-
 ## Features
 
 - **Hero Section** — Profile photo, name, course, school, social links
@@ -113,18 +100,6 @@ export const MAINNET_PORTFOLIO_ID = "0x...";
 | Sui Testnet Faucet | https://faucet.sui.io |
 | GitHub | https://github.com |
 | Vercel | https://vercel.com |
-
----
-
----
-
-# Full Workshop Guide (Windows Edition)
-
-**Date:** Saturday, March 28th, 2026  
-**Time:** 10:00 AM – 4:00 PM  
-**Venue:** Colegio de San Juan de Letran, Manila  
-**Address:** 151 Muralla Street, Intramuros, Manila 1002  
-**Maps:** https://maps.app.goo.gl/vG9S7NLC6NrYbpEc9
 
 ---
 
